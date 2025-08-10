@@ -1,3 +1,4 @@
 # ADBMS
-Name: Gurveer Singh Mangat
-UID: 23BCS11074
+
+- Name: Gurveer Singh Mangat  
+- UID: 23BCS11074
